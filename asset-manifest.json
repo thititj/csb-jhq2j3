@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://thititj.github.io/csb-jhq2j3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://thititj.github.io/csb-jhq2j3/static/js/main.8f827ebf.chunk.js",
+    "main.js.map": "https://thititj.github.io/csb-jhq2j3/static/js/main.8f827ebf.chunk.js.map",
+    "runtime-main.js": "https://thititj.github.io/csb-jhq2j3/static/js/runtime-main.675614f9.js",
+    "runtime-main.js.map": "https://thititj.github.io/csb-jhq2j3/static/js/runtime-main.675614f9.js.map",
+    "static/js/2.9fa1dd3d.chunk.js": "https://thititj.github.io/csb-jhq2j3/static/js/2.9fa1dd3d.chunk.js",
+    "static/js/2.9fa1dd3d.chunk.js.map": "https://thititj.github.io/csb-jhq2j3/static/js/2.9fa1dd3d.chunk.js.map",
+    "index.html": "https://thititj.github.io/csb-jhq2j3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://thititj.github.io/csb-jhq2j3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9fa1dd3d.chunk.js.LICENSE.txt": "https://thititj.github.io/csb-jhq2j3/static/js/2.9fa1dd3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.675614f9.js",
+    "static/js/2.9fa1dd3d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8f827ebf.chunk.js"
+  ]
+}
